@@ -9,7 +9,7 @@ public class WordCRUD implements ICRUD {
     Scanner s;
     final String fileName = "Dictionary.txt";
 
-    public WordCRUD(Scanner s) {
+    public WordCRUD(Scanner s) {                // scanner s 매게 변수의 필요 ?
         list = new ArrayList<>();
         this.s = s;
     }

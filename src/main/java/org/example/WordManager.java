@@ -47,6 +47,6 @@ public class WordManager {
             else if(menu == 7) wordCRUD.saveFile();
             else if(menu == 3) wordCRUD.searchWord();
         }
-        selectMenu();
+        System.out.println("프로그램 종료! 다음에 만나요~ ");
     }
 }
