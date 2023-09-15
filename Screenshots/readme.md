@@ -4,7 +4,7 @@
 
 수준별 단어보기 / 단어 검색
 
-<img src="https://github.com/cpc1009/Java_project1/blob/master/Screenshots/1.PNG?raw=true">
+<img src="https://github.com/cpc1009/Java_project1/blob/master/Screenshots/1.PNG?raw=true](https://github.com/cpc1009/Java_project1/blob/master/Screenshots/23.PNG">
 
 단어수정 / 삭제
 
