@@ -52,6 +52,8 @@ public class WordCRUD implements ICRUD {
         {
             System.out.print((i+1) + " ");
             System.out.println(list.get(i).toString());
+            //System.out.println(list[i].toString());                  // arraylist와 array의 차이
+
         }
         System.out.println("----------------------------------");
     }
